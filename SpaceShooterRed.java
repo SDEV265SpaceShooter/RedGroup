@@ -1,3 +1,4 @@
+// some notes to test a benign change :)
 package com.mygdx.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
